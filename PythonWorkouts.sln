@@ -5,6 +5,11 @@ VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonWorkouts", "PythonWorkouts.pyproj", "{C7BCACF4-27FF-4EA0-B3A9-9D9CF939A527}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0251187E-5478-4141-9B2E-6445A057C604}"
+	ProjectSection(SolutionItems) = preProject
+		PythonGitTest.py = PythonGitTest.py
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
