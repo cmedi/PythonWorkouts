@@ -21,6 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="class1.py" />
     <Compile Include="PythonGitTest - Copy.py" />
     <Compile Include="PythonWorkouts.py" />
   </ItemGroup>
