@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
 def main():
-    pass
-
+    """Main function does some different stuff."""
 main()
